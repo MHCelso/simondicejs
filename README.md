@@ -1,1 +1,1 @@
-# Simon dice, el un juego creado en JS.
+# Simón dice, un juego creado en JS.
